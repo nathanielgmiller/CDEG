@@ -1,2 +1,2 @@
 # CDEG
-CDEG, "Computerized Diagrammatic Euclidean Geometry," is a computer system for giving formal diagrammatic proofs in Euclidean Geometry
+CDEG, "Computerized Diagrammatic Euclidean Geometry," is a computer system for giving formal diagrammatic proofs in Euclidean Geometry.  The current version is 3.1. To install CDEG, download either CDEG_Mac.zip or CDEG_PC.zip and then unzip the archive.  The program files are not signed, so you will most likely need to tell your computer to let them run anyway. In many cases you can do this by right-clicking on the application.
